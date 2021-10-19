@@ -7,6 +7,11 @@
 $ yarn prisma init
 ```
 
+### Create migrate
+```
+$ yarn prisma migrate dev
+```
+
 ## GitHub Oauth
 ```
 https://github.com/settings/developers
