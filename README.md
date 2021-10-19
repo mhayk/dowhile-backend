@@ -12,6 +12,11 @@ $ yarn prisma init
 $ yarn prisma migrate dev
 ```
 
+### Prima Studio
+```
+$ yarn prisma studio
+```
+
 ## GitHub Oauth
 ```
 https://github.com/settings/developers
